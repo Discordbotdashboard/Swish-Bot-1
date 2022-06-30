@@ -1,12 +1,12 @@
 {
-    "token": "OTQzODk0ODczMTk3NjU4MTEy.Yg5smg.PzSCHpfWJLLfxPtMbCCcWOXDbqI",
-    "mongoUrl": "",
+    "token": "OTQ3MTYzNzM0Nzk3ODU2ODA4.GQp3Dx.d-nJQkfWXdWXqa57upn69dEIVjE5--4Fz9GUCo",
+"mongoUrl":"mongodb+srv://MasonmMasonn:Masonn14@galaxies.b117q.mongodb.net/myFirstDatabaseretryWrites=true&w=majority",
     "prefix": "!",
-    "serverID": "840653614098939934",
-    "developerIDs": [],
+    "serverID": "991819041071173723",
+    "developerIDs": [714841393255940137],
     "cooldownMessages": [],
     "emojis": {
-        "developers":"",
+        "developers":"merge",
         "basic":"👍"
       }
 }
